@@ -20,7 +20,7 @@
 
 ### App Walkthough GIF
 
-<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' width=250><br>
 ### Notes
 
 Describe any challenges encountered while building the app.
